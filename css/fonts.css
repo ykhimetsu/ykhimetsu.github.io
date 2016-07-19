@@ -1,0 +1,33 @@
+
+@font-face {
+	font-family: 'RobotoCondensedRegular';
+	src: url('../fontss/RobotoCondensed/RobotoCondensedRegular/RobotoCondensedRegular.eot');
+	src: url('../fontss/RobotoCondensed/RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fontss/RobotoCondensed/RobotoCondensedRegular/RobotoCondensedRegular.woff') format('woff'),
+		 url('../fontss/RobotoCondensed/RobotoCondensedRegular/RobotoCondensedRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: 'RobotoCondensedLight';
+	src: url('../fontss/RobotoCondensed/RobotoCondensedLight/RobotoCondensedLight.eot');
+	src: url('../fontss/RobotoCondensed/RobotoCondensedLight/RobotoCondensedLight.eot?#iefix') format('embedded-opentype'),
+		 url('../fontss/RobotoCondensed/RobotoCondensedLight/RobotoCondensedLight.woff') format('woff'),
+		 url('../fontss/RobotoCondensed/RobotoCondensedLight/RobotoCondensedLight.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+ 
+
+@font-face {
+	font-family: 'RobotoCondensedBold';
+	src: url('../fontss/RobotoCondensed/RobotoCondensedBold/RobotoCondensedBold.eot');
+	src: url('../fontss/RobotoCondensed/RobotoCondensedBold/RobotoCondensedBold.eot?#iefix') format('embedded-opentype'),
+		 url('../fontss/RobotoCondensed/RobotoCondensedBold/RobotoCondensedBold.woff') format('woff'),
+		 url('../fontss/RobotoCondensed/RobotoCondensedBold/RobotoCondensedBold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
